@@ -69,8 +69,26 @@ input{
 /***** SECOND CONTAINER ******/
 .second-section{
   background-color: #f7b617;
+  height: 500px;
 }
-
+#container{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  margin-right: 400px;
+}
+#second-section{
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 140px;
+  border: solid white;
+}
+.descarga-app{
+  margin-left: 70px;
+}
+.descarga{
+  color: white;
+}
 /***** THIRD CONTAINER ******/
 .third-section{
   background-image: url(../img/conduce.jpg);
