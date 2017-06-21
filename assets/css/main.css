@@ -39,6 +39,13 @@
   background-attachment : fixed;
 }
 
+/***** FOURTH CONTAINER ******/
+#map{
+  width: 50%;
+  height: 50vh;
+  border: 2px solid black;
+}
+
 
 
 
