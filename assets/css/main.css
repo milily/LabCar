@@ -2,17 +2,29 @@
   margin: 0;
   padding: 0;
 }
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+
 /********* NAVBAR **********/
 .nav-fondo{
-  background-color: white;
+  background-color: white; 
 }
 .navbar-default{
   border-color: white;
   margin-top: 5px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 .logo{
+  margin-top: 10px;
   margin-left: 100px;
+}
+.nav-links{
+  margin-right: 50px;
+}
+.link{
+  margin: 15px;
 }
 
 /***** FIRST CONTAINER ******/
@@ -22,12 +34,42 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
+  background-attachment : fixed;
 }
 .sign-in{
   background-color: #f7b617;
 }
+.text{
+  color: white;
+  width: 479px;
+  height: 350px;
+  padding: 20px 30px;
+}
+.titulo-viaje{
+  font-size: 250%;
+}
+#first-section{
+  margin-top: 150px;
+}
+.btn{
+  border-radius: 5px;
+  margin-top: 15px;
+  width: 250px;
+  font-size: 125%;
+}
+input{
+  background-color: #f7b617;
+  border: none;
+  border-bottom: 0.05px solid;
+}
+.registrate{
+  margin-top: 30px;
+}
 
 /***** SECOND CONTAINER ******/
+.second-section{
+  background-color: #f7b617;
+}
 
 /***** THIRD CONTAINER ******/
 .third-section{
@@ -44,6 +86,9 @@
   width: 50%;
   height: 50vh;
   border: 2px solid black;
+}
+.fourth-section{
+  background-color: #f7b617;
 }
 
 /***** FIFTH CONTAINER ******/
