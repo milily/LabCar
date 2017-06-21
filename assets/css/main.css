@@ -27,6 +27,19 @@
   background-color: #f1c40f;
 }
 
+/***** SECOND CONTAINER ******/
+
+/***** THIRD CONTAINER ******/
+.third-section{
+  background-image: url(../img/conduce.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment : fixed;
+}
+
+
 
 
 
