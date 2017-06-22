@@ -169,8 +169,31 @@ input{
 .fifth-section{
   background-color: #2b2b2b;
 }
-
-
+.logo{
+  margin-top: 80px;
+}
+a:hover{
+  text-decoration:none;
+  color: #f7b617;
+}
+li{
+  list-style: none;
+  padding-top: 15px;
+}
+.links-footer{
+  color: white;
+  margin-bottom: 40px;
+}
+.img-store{
+  margin-top: 140px;
+}
+.img-store-2{
+  margin-top: 20px;
+}
+.icon-redes{
+  margin-top: 270px;
+  color: white;
+}
 
 
 
