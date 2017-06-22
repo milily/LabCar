@@ -13,7 +13,6 @@ body{
 }
 .navbar-default{
   border-color: white;
-
 }
 .logo{
   margin-top: 40px;
@@ -33,7 +32,6 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
-
 }
 .sign-in{
   height: 300px;
