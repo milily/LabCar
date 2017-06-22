@@ -75,20 +75,27 @@ input{
   padding-top: 50px;
   padding-bottom: 50px;
   padding-left: 10px;
-  margin-right: 400px;
+  margin-right: 300px;
 }
 #second-section{
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   padding-left: 140px;
   border: solid white;
 }
 .descarga-app{
-  margin-left: 70px;
+  margin-left: 80px;
 }
 .descarga{
   color: white;
+  font-size: 190%;
 }
+.descarga-1{
+  color: white;
+  font-size: 135%;
+  margin-top: 20px;
+}
+
 /***** THIRD CONTAINER ******/
 .third-section{
   background-image: url(../img/conduce.jpg);
